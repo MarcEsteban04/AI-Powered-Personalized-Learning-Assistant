@@ -1,12 +1,6 @@
 # AI-Powered Personalized Learning Assistant with Task Management and Reviewer Generator for ACLC College of Sta. Maria
 
 A thesis project presented to the faculty of Computer Science at ACLC College of Santa Maria, Bulacan, in partial fulfillment of the requirements for the Degree of Bachelor of Science in Computer Science.
-
-**Authors:**
-* Esteban, Marc Jeillord DC.
-* Moreno, Genaro
-* Ornopia, Ranz Andrei B.
-
 ---
 
 ## About The Project
