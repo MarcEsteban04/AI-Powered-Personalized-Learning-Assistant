@@ -15,24 +15,47 @@ This project is an AI-Powered Personalized Learning Assistant developed to enhan
 
 The system was evaluated based on functionality, reliability, usability, efficiency, maintainability, and portability, achieving an overall rating of **4.78 - Highly Acceptable**.
 
-### Key Features
+## Screenshots
 
-**For Students:**
-* **Personalized Dashboard:** A central hub to access quizzes, reviewers, and performance analytics.
-* **AI Reviewer & Flashcard Generator:** Automatically converts uploaded digital files (PDF, TXT, PPTX, DOCX) into customized study aids and flashcards.
-* **AI Summarizer & Study Plan Generator:** Generates summaries from documents and creates personalized study schedules.
-* **Task Management:** A calendar-based interface to add, edit, and track academic tasks with priority levels.
-* **Quizzes & Assessments:** Take AI-generated quizzes or quizzes assigned by teachers and track performance.
-* **Machine Problem Module (for IT Students):** A specialized module for programming and system-based exercises for IT students.
+| Student Login & Dashboard | Student Analytics |
+| :---: | :---: |
+| ![Screenshot1](Screenshot1.png) | ![Screenshot2](Screenshot2.png) |
 
-**For Teachers:**
-* **Administrative Dashboard:** An overview of student activity, courses, and total files.
-* **Student & Course Management:** Tools to manage student profiles, courses, sections, and subjects.
-* **AI Content Generation:**
-    * **AI Quiz & Exam Generator:** Automatically creates quizzes and exams from uploaded documents or prompts.
-    * **AI Lesson Planner:** Assists in creating structured lesson plans based on specified topics and learning objectives.
-* **Performance Analytics:** Monitor student and section performance on quizzes and machine problems.
-* **File Management:** Upload and share course outlines, presentations, and other files directly with students.
+| Task Manager | Subject Dashboard |
+| :---: | :---: |
+| ![Screenshot3](Screenshot3.png) | ![Screenshot4](Screenshot4.png) |
+
+| AI Reviewer Generator | AI Flashcard Generator |
+| :---: | :---: |
+| ![Screenshot5](Screenshot5.png) | ![Screenshot6](Screenshot6.png) |
+
+| AI Summarizer | AI Study Plan |
+| :---: | :---: |
+| ![Screenshot7](Screenshot7.png) | ![Screenshot8](Screenshot8.png) |
+
+| Machine Problems (IT) | Quizzes Page |
+| :---: | :---: |
+| ![Screenshot9](Screenshot9.png) | ![Screenshot10](Screenshot10.png) |
+
+| Generated Reviewers | Shared Files |
+| :---: | :---: |
+| ![Screenshot11](Screenshot11.png) | ![Screenshot12](Screenshot12.png) |
+
+| Student Profile | Teacher Dashboard |
+| :---: | :---: |
+| ![Screenshot13](Screenshot13.png) | ![Screenshot14](Screenshot14.png) |
+
+| Teacher Analytics | Teacher AI Quiz Generator |
+| :---: | :---: |
+| ![Screenshot15](Screenshot15.png) | ![Screenshot16](Screenshot16.png) |
+
+| Teacher AI Exam Generator | Teacher AI Machine Problem Generator |
+| :---: | :---: |
+| ![Screenshot17](Screenshot17.png) | ![Screenshot18](Screenshot18.png) |
+
+| Teacher Student Manager | Teacher Course Manager |
+| :---: | :---: |
+| ![Screenshot19](Screenshot19.png) | ![Screenshot20](Screenshot20.png) |
 
 ### Built With
 
