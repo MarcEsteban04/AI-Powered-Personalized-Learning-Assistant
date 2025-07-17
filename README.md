@@ -1,71 +1,87 @@
-# AI-Powered Personalized Learning Assistant with Task Management and Reviewer Generator for ACLC College of Sta. Maria
+<div align="center">
+  
+# AI-Powered Personalized Learning Assistant
+### A Thesis Project for ACLC College of Sta. Maria
 
-A thesis project presented to the faculty of Computer Science at ACLC College of Santa Maria, Bulacan, in partial fulfillment of the requirements for the Degree of Bachelor of Science in Computer Science.
+![Project Status](https://img.shields.io/badge/status-completed-green)
+![Thesis Evaluation](https://img.shields.io/badge/Evaluation-4.78%2F5.0%20(Highly%20Acceptable)-blue)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
 ---
 
-## About The Project
+This project is an **AI-Powered Personalized Learning Assistant** developed to enhance the academic experience at ACLC College of Sta. Maria. It provides a modern, personalized approach to task management and review generation, assisting both students and educators in managing academic workloads and improving learning outcomes through automated, intelligent support.
 
-This project is an AI-Powered Personalized Learning Assistant developed to enhance the academic experience at ACLC College of Sta. Maria. It aims to provide a personalized approach to task management and review generation, assisting both students and educators in efficiently managing academic tasks and improving learning outcomes through automated support.
+The system was formally evaluated based on ISO 25010 criteria (functionality, reliability, usability, efficiency, maintainability, and portability), achieving an overall rating of **4.78 out of 5.0 - Highly Acceptable**.
 
-The system was evaluated based on functionality, reliability, usability, efficiency, maintainability, and portability, achieving an overall rating of **4.78 - Highly Acceptable**.
+## ✨ Key Features
 
-## Project Inquiries & Pricing
-For those interested in acquiring this project, please contact me via email to discuss the details and pricing.
+* **📚 AI Reviewer Generator:** Automatically creates comprehensive reviewers from uploaded course materials (PDFs, text).
+* **🃏 AI Flashcard Generator:** Instantly generates flashcards to aid in memorization and active recall.
+* **✍️ AI Content Summarizer:** Condenses long documents and lectures into key points for efficient studying.
+* **📅 Dynamic Task Management:** A smart to-do list and calendar to help students track deadlines for assignments, quizzes, and machine problems.
+* **📊 Analytics Dashboard:** Provides students with insights into their performance on quizzes and other activities.
+* **📝 Interactive Quizzes & Assessments:** Enables students to take quizzes and submit machine problems directly through the platform.
+* **👤 Personalized Student Portal:** A centralized hub for students to access their subjects, tasks, and generated study materials.
 
-**Contact:** Marc Jeillord DC. Esteban - marcdelacruzesteban@gmail.com
+## 📸 Screenshots
 
-## Screenshots
+<details>
+<summary>Click to view project screenshots</summary>
 
-| Student Login & Dashboard | Dashboard |
+| Student Login & Dashboard | Personalized Dashboard |
 | :---: | :---: |
-| ![Screenshot1](screenshot1.png) | ![Screenshot2](screenshot2.png) |
+| <img src="screenshot1.png" alt="Student Login & Dashboard" width="400"/> | <img src="screenshot2.png" alt="Personalized Dashboard" width="400"/> |
 
-| Analytics - Quiz | Analytics - Quiz |
+| Performance Analytics (Quiz) | Performance Analytics (Machine Problem) |
 | :---: | :---: |
-| ![Screenshot3](screenshot3.png) | ![Screenshot4](screenshot4.png) |
+| <img src="screenshot3.png" alt="Analytics - Quiz" width="400"/> | <img src="screenshot5.png" alt="Analytics - Machine Problem" width="400"/> |
 
-| Analytics - Machine Problem | Task Manager |
+| Task Manager | Student Subjects |
 | :---: | :---: |
-| ![Screenshot5](Screenshot5.png) | ![Screenshot6](Screenshot6.png) |
+| <img src="screenshot6.png" alt="Task Manager" width="400"/> | <img src="screenshot7.png" alt="Student Subjects" width="400"/> |
 
-| Student Subjects | Reviewer Generator |
+| AI Reviewer Generator | Generated Reviewers |
 | :---: | :---: |
-| ![Screenshot7](Screenshot7.png) | ![Screenshot8](Screenshot8.png) |
+| <img src="screenshot8.png" alt="Reviewer Generator" width="400"/> | <img src="screenshot10.png" alt="Generated Reviewers" width="400"/> |
 
-| Generating Reviewer | Generated Reviewers |
+| AI Flashcard Generator | Generated Flashcards |
 | :---: | :---: |
-| ![Screenshot9](Screenshot9.png) | ![Screenshot10](Screenshot10.png) |
+| <img src="screenshot11.png" alt="AI Flashcard Generator" width="400"/> | <img src="screenshot13.png" alt="Generated Flashcards" width="400"/> |
 
-| AI Flashcard Generator | Generating Flashcard |
+| My Quizzes | Taking a Quiz |
 | :---: | :---: |
-| ![Screenshot11](Screenshot11.png) | ![Screenshot12](Screenshot12.png) |
+| <img src="screenshot17.png" alt="My Quizzes" width="400"/> | <img src="screenshot19.png" alt="Taking a Quiz" width="400"/> |
 
-| Generated Flashcards | AI Summarizer |
-| :---: | :---: |
-| ![Screenshot13](Screenshot13.png) | ![Screenshot14](Screenshot14.png) |
+</details>
 
-| Machine Problem | Machine Problem Activity |
-| :---: | :---: |
-| ![Screenshot15](Screenshot15.png) | ![Screenshot16](Screenshot16.png) |
+## 🛠️ Tech Stack
 
-| My Quizzes | Reviewer |
-| :---: | :---: |
-| ![Screenshot17](Screenshot17.png) | ![Screenshot18](Screenshot18.png) |
+* **Backend:** PHP
+* **Database:** MySQL
+* **Frontend:** JavaScript, HTML5, CSS3
+* **AI Integration:** Google Gemini API
 
-| Quiz | Profile |
-| :---: | :---: |
-| ![Screenshot19](Screenshot19.png) | ![Screenshot20](Screenshot20.png) |
+## 🏗️ Development Methodology
 
-### Built With
+This project was developed using a **Hybrid Agile-Waterfall** model. This approach provided a robust framework by:
+1.  **Waterfall:** Utilizing a structured, sequential process for initial requirements gathering, analysis, and system design.
+2.  **Agile:** Adopting an iterative and incremental approach during the development, testing, and feedback phases to ensure flexibility and rapid adaptation to challenges.
 
-This project was developed using the following technologies:
+## 🎓 About the Thesis
 
-* PHP
-* MySQL
-* JavaScript
-* HTML & CSS
-* Google Gemini AI
+This project was presented to the faculty of the Computer Science department at ACLC College of Santa Maria, Bulacan, in partial fulfillment of the requirements for the Degree of Bachelor of Science in Computer Science.
 
-### Methodology
+---
 
-The project was developed using a **Hybrid Agile-Waterfall** model. This approach combined the structured planning of the Waterfall model for initial requirements and design with the flexibility and iterative nature of Agile for the development and testing phases.
+## 📞 Project Inquiries & Pricing
+
+For those interested in acquiring this project for academic or commercial use, please feel free to reach out to discuss the details, features, and pricing.
+
+**Contact:** Marc Jeillord DC. Esteban  
+**Email:** 📧 <marcdelacruzesteban@gmail.com>
