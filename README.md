@@ -19,11 +19,11 @@ The system was evaluated based on functionality, reliability, usability, efficie
 
 | Student Login & Dashboard | Student Analytics |
 | :---: | :---: |
-| ![Screenshot1](Screenshot1.png) | ![Screenshot2](Screenshot2.png) |
+| ![Screenshot1](screenshot1.png) | ![Screenshot2](screenshot2.png) |
 
 | Task Manager | Subject Dashboard |
 | :---: | :---: |
-| ![Screenshot3](Screenshot3.png) | ![Screenshot4](Screenshot4.png) |
+| ![Screenshot3](screenshot3.png) | ![Screenshot4](screenshot4.png) |
 
 | AI Reviewer Generator | AI Flashcard Generator |
 | :---: | :---: |
