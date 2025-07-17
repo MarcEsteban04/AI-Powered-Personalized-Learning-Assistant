@@ -15,6 +15,11 @@ This project is an AI-Powered Personalized Learning Assistant developed to enhan
 
 The system was evaluated based on functionality, reliability, usability, efficiency, maintainability, and portability, achieving an overall rating of **4.78 - Highly Acceptable**.
 
+## Project Inquiries & Pricing
+For those interested in acquiring this project, please contact me via email to discuss the details and pricing.
+
+**Contact:** Marc Jeillord DC. Esteban - marcdelacruzesteban@gmail.com
+
 ## Screenshots
 
 | Student Login & Dashboard | Dashboard |
