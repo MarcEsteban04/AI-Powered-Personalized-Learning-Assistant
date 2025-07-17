@@ -17,43 +17,43 @@ The system was evaluated based on functionality, reliability, usability, efficie
 
 ## Screenshots
 
-| Student Login & Dashboard | Student Analytics |
+| Student Login & Dashboard | Dashboard |
 | :---: | :---: |
 | ![Screenshot1](screenshot1.png) | ![Screenshot2](screenshot2.png) |
 
-| Task Manager | Subject Dashboard |
+| Analytics - Quiz | Analytics - Quiz |
 | :---: | :---: |
 | ![Screenshot3](screenshot3.png) | ![Screenshot4](screenshot4.png) |
 
-| AI Reviewer Generator | AI Flashcard Generator |
+| Analytics - Machine Problem | Task Manager |
 | :---: | :---: |
 | ![Screenshot5](Screenshot5.png) | ![Screenshot6](Screenshot6.png) |
 
-| AI Summarizer | AI Study Plan |
+| Student Subjects | Reviewer Generator |
 | :---: | :---: |
 | ![Screenshot7](Screenshot7.png) | ![Screenshot8](Screenshot8.png) |
 
-| Machine Problems (IT) | Quizzes Page |
+| Generating Reviewer | Generated Reviewers |
 | :---: | :---: |
 | ![Screenshot9](Screenshot9.png) | ![Screenshot10](Screenshot10.png) |
 
-| Generated Reviewers | Shared Files |
+| AI Flashcard Generator | Generating Flashcard |
 | :---: | :---: |
 | ![Screenshot11](Screenshot11.png) | ![Screenshot12](Screenshot12.png) |
 
-| Student Profile | Teacher Dashboard |
+| Generated Flashcards | AI Summarizer |
 | :---: | :---: |
 | ![Screenshot13](Screenshot13.png) | ![Screenshot14](Screenshot14.png) |
 
-| Teacher Analytics | Teacher AI Quiz Generator |
+| Machine Problem | Machine Problem Activity |
 | :---: | :---: |
 | ![Screenshot15](Screenshot15.png) | ![Screenshot16](Screenshot16.png) |
 
-| Teacher AI Exam Generator | Teacher AI Machine Problem Generator |
+| My Quizzes | Reviewer |
 | :---: | :---: |
 | ![Screenshot17](Screenshot17.png) | ![Screenshot18](Screenshot18.png) |
 
-| Teacher Student Manager | Teacher Course Manager |
+| Quiz | Profile |
 | :---: | :---: |
 | ![Screenshot19](Screenshot19.png) | ![Screenshot20](Screenshot20.png) |
 
